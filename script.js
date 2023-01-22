@@ -40,3 +40,11 @@ function filterData(searchTerm) {
         }
     })
 }
+
+
+// trying to add reloud function, need to finish
+// function startOver() {
+//   level = 0;
+//   gamePattern = [];
+//   started = false;
+// }
