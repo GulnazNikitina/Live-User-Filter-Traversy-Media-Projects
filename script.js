@@ -48,3 +48,4 @@ function filterData(searchTerm) {
 //   gamePattern = [];
 //   started = false;
 // }
+//code need to improve
